@@ -1,0 +1,1 @@
+{"name":"Local: exercise","url":"d:\\.c\\FA\\exercise.c","tests":[{"id":1734135387061,"input":"2147483648","output":"Ga palindrom!"},{"id":1734136960124,"input":"2141661412","output":"Palindrom!"},{"id":1734138727120,"input":"AsasA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FA\\exercise.c","group":"local","local":true}

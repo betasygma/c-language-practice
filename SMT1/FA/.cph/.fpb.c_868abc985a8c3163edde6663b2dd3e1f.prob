@@ -1,0 +1,1 @@
+{"name":"Local: fpb","url":"d:\\.c\\FA\\fpb.c","tests":[{"id":1734143379043,"input":"2 3","output":"1"},{"id":1734143438570,"input":"9 6","output":"3"},{"id":1734143815724,"input":"99999 99998","output":"1"},{"id":1734146350325,"input":"2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FA\\fpb.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: faktorial","url":"d:\\.c\\FA\\faktorial.c","tests":[{"id":1734130703447,"input":"1","output":"1"},{"id":1734130716397,"input":"10","output":"3628800"},{"id":1734130722373,"input":"15","output":"2004310016"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FA\\faktorial.c","group":"local","local":true}

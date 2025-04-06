@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\.c\\FP\\L.c","tests":[{"id":1733263453595,"input":"24","output":"46.06"},{"id":1733263611112,"input":"36","output":"60.36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FP\\L.c","group":"local","local":true}

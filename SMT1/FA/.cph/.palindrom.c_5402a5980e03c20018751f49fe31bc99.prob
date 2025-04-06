@@ -1,0 +1,1 @@
+{"name":"Local: palindrom","url":"d:\\.c\\FA\\palindrom.c","tests":[{"id":1734144431982,"input":"KAPAK","output":"PALINDROM"},{"id":1734144444082,"input":"AdadA","output":"PALINDROM"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FA\\palindrom.c","group":"local","local":true}

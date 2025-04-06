@@ -1,0 +1,1 @@
+{"name":"Local: N","url":"d:\\.c\\FP\\N.c","tests":[{"id":1733243399442,"input":"6\n2 0 2 8 10 11\n1 0 1 2 3 5","output":"i see no god up here, other than me(ow)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FP\\N.c","group":"local","local":true}

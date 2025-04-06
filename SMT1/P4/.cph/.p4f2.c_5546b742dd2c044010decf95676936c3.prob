@@ -1,0 +1,1 @@
+{"name":"Local: p4f2","url":"d:\\.c\\P4\\p4f2.c","tests":[{"id":1732776796244,"input":"3\n0 0\n1 0\n2 2","output":"1.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\P4\\p4f2.c","group":"local","local":true}

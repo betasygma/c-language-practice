@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\.c\\FP\\D.c","tests":[{"id":1733262155135,"input":"Ellie 5","output":"6"},{"id":1733262241220,"input":"Oddie 10","output":"25"},{"id":1733262254516,"input":"Shafa 10","output":"Who is that?"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\FP\\D.c","group":"local","local":true}

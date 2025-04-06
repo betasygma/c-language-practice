@@ -1,0 +1,1 @@
+{"name":"Local: p4f4","url":"d:\\.c\\P4\\p4f4.c","tests":[{"id":1732777914340,"input":"dasprog","output":"dasprgo"},{"id":1732777934299,"input":"beabadoobee","output":"beabadobeeo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\P4\\p4f4.c","group":"local","local":true}
