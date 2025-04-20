@@ -1,0 +1,1 @@
+{"name":"Local: P1_d","url":"d:\\.c\\SMT2\\P1\\P1_d.c","tests":[{"id":1744856427697,"input":"7 25 \n@) \n!% \n!( \n!^ \n@% \n@$ \n@#","output":"\n\n\n\n25 \n24 \n23 "},{"id":1744856507520,"input":"5 9 \n*  \n(  \n%  \n^  \n&","output":"\n9 8\n\n\n7 6 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\SMT2\\P1\\P1_d.c","group":"local","local":true}

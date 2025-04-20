@@ -1,0 +1,1 @@
+{"name":"Local: bbc_notepad","url":"d:\\.c\\SMT2\\R1\\bbc_notepad.c","tests":[{"id":1745032781071,"input":"WRITE A \nBACKSPACE \nWRITE B \nWRITE C \nBACKSPACE \nWRITE B \nWRITE C \nPRINT","output":"BBC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\SMT2\\R1\\bbc_notepad.c","group":"local","local":true}

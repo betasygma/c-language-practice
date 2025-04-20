@@ -5,16 +5,24 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug-Out",
+            "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
-            "environment": [],
-	    "console": "externalTerminal"
-            }
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "External Terminal",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+	        "console": "externalTerminal"
         }
     ]
 }

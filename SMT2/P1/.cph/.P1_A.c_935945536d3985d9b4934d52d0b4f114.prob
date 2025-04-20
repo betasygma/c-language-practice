@@ -1,0 +1,1 @@
+{"name":"Local: P1_A","url":"d:\\.c\\SMT2\\P1\\P1_A.c","tests":[{"id":1744434967208,"input":"Helloaiu&*","output":"*&uuiiaaoolleeH"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\SMT2\\P1\\P1_A.c","group":"local","local":true}

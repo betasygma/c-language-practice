@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+IndentCaseLabels: true
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 100
+AllowShortIfStatementsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBraces: Attach
+BraceWrapping:
+    AfterControlStatement: false
+    AfterFunction: false
+    AfterClass: false

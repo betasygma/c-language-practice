@@ -1,0 +1,1 @@
+{"name":"Local: kembalikan","url":"d:\\.c\\SMT2\\R1\\kembalikan.c","tests":[{"id":1745035338491,"input":"5 \n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\SMT2\\R1\\kembalikan.c","group":"local","local":true}

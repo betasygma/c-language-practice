@@ -1,7 +1,49 @@
 {
+    // C/C++ Specific Settings
     "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**"
+    ],
     "files.associations": {
-        "string.h": "c",
-        "stdlib.h": "c"
+        "*.c": "c",
+        "*.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    },
+
+    // Code Formatting
+    "clang-format.executable": "C:\\Program Files\\LLVM\\bin\\clang-format.exe",
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.formatOnSave": true,
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.formatOnSave": true
+    },
+
+    // File & Editor Behavior
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.renderWhitespace": "selection",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "off",
+    "editor.rulers": [80, 100],
+    "editor.minimap.enabled": true,
+    "editor.lineNumbers": "on",
+    "editor.smoothScrolling": true,
+    "workbench.startupEditor": "welcomePage",
+    "explorer.confirmDelete": true,
+
+
+    // Terminal & Build Settings
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     }
 }

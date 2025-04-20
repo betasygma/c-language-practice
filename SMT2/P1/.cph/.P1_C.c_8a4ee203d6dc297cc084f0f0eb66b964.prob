@@ -1,0 +1,1 @@
+{"name":"Local: P1_C","url":"d:\\.c\\SMT2\\P1\\P1_C.c","tests":[{"id":1744736930712,"input":"5\n1 2 3 4 5","output":"2 1 4 3 5"},{"id":1745019238618,"input":"1\n9","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\.c\\SMT2\\P1\\P1_C.c","group":"local","local":true}
